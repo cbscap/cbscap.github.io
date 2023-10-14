@@ -11,4 +11,4 @@ Identifying Influencers in Youtube Communities
 - Developed pipeline to extract Youtube user-interaction data using Youtube v3 API.
 - Used Graph Theory to detect influential channels (PageRank algorithm).
 
-### $${\color{lightblue}Hobbies}$$
+$${\color{lightblue}Hobbies}$$
